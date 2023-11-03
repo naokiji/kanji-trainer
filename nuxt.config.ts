@@ -8,6 +8,6 @@ export default defineNuxtConfig({
     },
     target: "static",
     app: {
-        baseURL: "/naokiji/"
+        baseURL: "/kanji-trainer/"
     }
 })
