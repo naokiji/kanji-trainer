@@ -4687,5 +4687,176 @@
       "section": "Traveler",
       "unit": 4
     }
+  },
+  {
+    "kanji": "一足",
+    "reading": "いっそく",
+    "meaning": "one (pair of shoes)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "二足",
+    "reading": "にそく",
+    "meaning": "two (pair of shoes)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "三足",
+    "reading": "さんそく",
+    "meaning": "three (pair of shoes)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "靴下",
+    "reading": "くつした",
+    "meaning": "socks",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "手袋",
+    "reading": "てぶくろ",
+    "meaning": "glove",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "紫色",
+    "reading": "むらさきいろ",
+    "meaning": "purple",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "紫",
+    "reading": "むらさき",
+    "meaning": "purple",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "緑色",
+    "reading": "みどりいろ",
+    "meaning": "green",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "緑",
+    "reading": "みどり",
+    "meaning": "green",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "灰色",
+    "reading": "はいいろ",
+    "meaning": "gray",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "次",
+    "reading": "つぎ",
+    "meaning": "next",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "狭い",
+    "reading": "せまい",
+    "meaning": "narrow",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "広い",
+    "reading": "ひろい",
+    "meaning": "wide",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "角",
+    "reading": "かど",
+    "meaning": "corner",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "春",
+    "reading": "はる",
+    "meaning": "spring",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "夏",
+    "reading": "なつ",
+    "meaning": "summer",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "秋",
+    "reading": "あき",
+    "meaning": "fall",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "冬",
+    "reading": "ふゆ",
+    "meaning": "winter",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
+  },
+  {
+    "kanji": "足",
+    "reading": "そく",
+    "meaning": "foot",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 5
+    }
   }
 ]
