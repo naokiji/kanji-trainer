@@ -9,5 +9,8 @@ export default defineNuxtConfig({
     target: "static",
     app: {
         baseURL: "/kanji-trainer/"
-    }
+    },
+    modules: [
+        '@nuxtjs/tailwindcss'
+    ]
 })

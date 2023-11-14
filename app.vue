@@ -1,5 +1,7 @@
 <template>
   <div>
-    <BaseKanji />
+    <NuxtLayout>
+      <NuxtPage/>
+    </NuxtLayout>
   </div>
 </template>
