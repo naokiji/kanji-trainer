@@ -13,6 +13,7 @@ module.exports = {
           dark: '#1899d6',
         },
         'duo-grey': {
+          lighter: '#37464f',
           light: '#202f36',
           DEFAULT: '#131f24',
           dark: '#0e161a',

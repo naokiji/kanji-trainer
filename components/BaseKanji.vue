@@ -5,7 +5,7 @@
       <p class="text-xl mt-1">What's this Kanji ?</p>
       <p class="text-5xl font-bold mt-8">{{ question.kanji }}</p>
 
-      <div class="mt-10 grid grid-cols-2 gap-y-5 gap-x-5 px-7">
+      <div class="mt-10 grid grid-cols-2 gap-y-5 gap-x-4 px-6">
         <ChoiceButton
             class="font-bold"
             v-for="answer in answerPoolReading"
@@ -17,7 +17,7 @@
         </ChoiceButton>
       </div>
 
-      <div class="mt-9 grid grid-cols-2 gap-y-5 gap-x-5 px-7">
+      <div class="mt-10 grid grid-cols-2 gap-y-5 gap-x-4 px-6">
         <ChoiceButton
             v-for="answer in answerPoolMeaning"
             :is-right="meaningChoice === answer && meaningChoice === question.meaning"
@@ -27,11 +27,12 @@
           {{ answer }}
         </ChoiceButton>
       </div>
-      <button
-          @click="reload()"
-          class="mt-12 rounded-2xl px-6 py-3 bg-duo-blue font-bold text-duo-grey-dark border-b-4 border-b-duo-blue-dark active:bg-duo-blue-light active:border-b-0 active:border-t-4 active:border-t-duo-grey-dark">
+      <ActionButtonBlue
+          @click="reload"
+          class="mt-12"
+      >
         NEXT
-      </button>
+      </ActionButtonBlue>
     </div>
   </section>
 </template>
@@ -39,6 +40,7 @@
 <script setup>
 import data from '~/assets/data.json'
 import ChoiceButton from "./ChoiceButton";
+import ActionButtonBlue from "./ActionButtonBlue";
 
 function getRandomKanji() {
   return data[Math.floor(Math.random() * data.length)];
