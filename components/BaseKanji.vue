@@ -18,7 +18,6 @@
       </ChoiceButton>
     </div>
 
-    <!--    <div class="mt-10 grid grid-cols-2 gap-y-5 gap-x-4 px-6">-->
     <div class="grid grid-cols-2 gap-y-5 gap-x-4 px-6">
       <ChoiceButton
           v-for="answer in answerPoolMeaning"
