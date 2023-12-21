@@ -56,7 +56,7 @@
   {
     "kanji": "私",
     "reading": "わたし",
-    "meaning": "watashi",
+    "meaning": "I",
     "lesson": {
       "section": "Rookie",
       "unit": 6
@@ -2710,7 +2710,7 @@
   },
   {
     "kanji": "五枚",
-    "reading": "五枚",
+    "reading": "ごまい",
     "meaning": "five sheets",
     "lesson": {
       "section": "Explorer",
@@ -4857,6 +4857,15 @@
     "lesson": {
       "section": "Traveler",
       "unit": 5
+    }
+  },
+  {
+    "kanji": "早い",
+    "reading": "はやい",
+    "meaning": "early",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
     }
   }
 ]
