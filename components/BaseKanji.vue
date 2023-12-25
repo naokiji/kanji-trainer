@@ -5,8 +5,13 @@
       <p class="text-xl mt-1">What's this Kanji ?</p>
       <p class="text-5xl font-bold mt-8">{{ question.kanji }}</p>
     </div>
+    <div>
+      <NuxtLink to="/parameters">
+        O
+      </NuxtLink>
+    </div>
 
-    <div class="grid grid-cols-2 gap-y-5 gap-x-4 px-6">
+    <TransitionGroup name="list" tag="button" class="grid grid-cols-2 gap-y-5 gap-x-4 px-6">
       <ChoiceButton
           class="font-bold"
           v-for="answer in answerPoolReading"
@@ -16,7 +21,7 @@
       >
         {{ answer }}
       </ChoiceButton>
-    </div>
+    </TransitionGroup>
 
     <div class="grid grid-cols-2 gap-y-5 gap-x-4 px-6">
       <ChoiceButton
@@ -39,9 +44,18 @@
 </template>
 
 <script setup>
-import data from '~/assets/data.json'
+import rawData from '~/assets/data.json'
 import ChoiceButton from "./ChoiceButton";
 import ActionButtonBlue from "./ActionButtonBlue";
+
+const selectedUnits = JSON.parse(localStorage.getItem('parameters.units') || '[]')
+const data = rawData.filter((item) => {
+  if (selectedUnits.length === 0) {
+    return true
+  }
+  const unitName = `${item.lesson.section} ${item.lesson.unit}`
+  return selectedUnits.includes(unitName)
+})
 
 function getRandomKanji() {
   return data[Math.floor(Math.random() * data.length)];
@@ -75,40 +89,4 @@ function reload() {
   readingChoice.value = undefined;
   meaningChoice.value = undefined;
 }
-
 </script>
-
-<style>
-/*html {*/
-/*  font-family: LINESeed, sans-serif;*/
-/*  font-size: 2rem;*/
-/*  background-color: #121212;*/
-/*  color: white;*/
-/*}*/
-
-/*.kanji {*/
-/*  font-size: 2rem;*/
-/*}*/
-
-/*.text-green {*/
-/*  color: green;*/
-/*}*/
-
-/*.text-red {*/
-/*  color: red;*/
-/*}*/
-
-/*@font-face {*/
-/*  font-family: 'LINESeed';*/
-/*  src: url(~/assets/fonts/LINESeedJP_A_TTF_Rg.ttf) format('truetype');*/
-/*  font-weight: normal;*/
-/*  font-style: normal;*/
-/*}*/
-
-/*@font-face {*/
-/*  font-family: 'LINESeed';*/
-/*  src: url(~/assets/fonts/LINESeedJP_A_TTF_Bd.ttf) format('truetype');*/
-/*  font-weight: bold;*/
-/*  font-style: normal;*/
-/*}*/
-</style>

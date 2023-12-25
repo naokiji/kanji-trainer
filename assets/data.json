@@ -56,7 +56,7 @@
   {
     "kanji": "私",
     "reading": "わたし",
-    "meaning": "watashi",
+    "meaning": "I",
     "lesson": {
       "section": "Rookie",
       "unit": 6
@@ -2710,7 +2710,7 @@
   },
   {
     "kanji": "五枚",
-    "reading": "五枚",
+    "reading": "ごまい",
     "meaning": "five sheets",
     "lesson": {
       "section": "Explorer",
@@ -4857,6 +4857,762 @@
     "lesson": {
       "section": "Traveler",
       "unit": 5
+    }
+  },
+  {
+    "kanji": "早い",
+    "reading": "はやい",
+    "meaning": "early",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "携帯",
+    "reading": "けいたい",
+    "meaning": "mobile phone",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "川",
+    "reading": "かわ",
+    "meaning": "river",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "池",
+    "reading": "いけ",
+    "meaning": "pond",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "海",
+    "reading": "うみ",
+    "meaning": "sea",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "声",
+    "reading": "こえ",
+    "meaning": "voice",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "賑やか",
+    "reading": "にぎやか",
+    "meaning": "lively",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "十匹",
+    "reading": "じゅっぴき",
+    "meaning": "ten (small animals)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "二匹",
+    "reading": "にひき",
+    "meaning": "two (small animals)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "一匹",
+    "reading": "いっぴき",
+    "meaning": "one (small animals)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "匹",
+    "reading": "ひき",
+    "meaning": "counter for small animals",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "五匹",
+    "reading": "ごひき",
+    "meaning": "five (small animals)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "八匹",
+    "reading": "はっぴき",
+    "meaning": "eight (small animals)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "三匹",
+    "reading": "さんびき",
+    "meaning": "three (small animals)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "動物",
+    "reading": "どうぶつ",
+    "meaning": "animal",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "動物園",
+    "reading": "どうぶつえん",
+    "meaning": "zoo",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "鹿",
+    "reading": "しか",
+    "meaning": "deer",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "静か",
+    "reading": "しずか",
+    "meaning": "quiet",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "馬",
+    "reading": "うま",
+    "meaning": "horse",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "二台",
+    "reading": "にだい",
+    "meaning": "two (large objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "三台",
+    "reading": "さんだい",
+    "meaning": "three (large objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "五台",
+    "reading": "ごだい",
+    "meaning": "five (large objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 6
+    }
+  },
+  {
+    "kanji": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "homework",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "class",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "教科書",
+    "reading": "きょうかしょ",
+    "meaning": "textbook",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "難しい",
+    "reading": "むずかしい",
+    "meaning": "difficult",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "易しい",
+    "reading": "やさしい",
+    "meaning": "easy",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "漢字",
+    "reading": "かんじ",
+    "meaning": "kanji",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "言葉",
+    "reading": "ことば",
+    "meaning": "word",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "意味",
+    "reading": "いみ",
+    "meaning": "meaning",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "辞書",
+    "reading": "じしょ",
+    "meaning": "dictionary",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "お菓子",
+    "reading": "おかし",
+    "meaning": "snack",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "菓子",
+    "reading": "かし",
+    "meaning": "sweets",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "唐揚げ",
+    "reading": "からあげ",
+    "meaning": "fried chicken",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "店内",
+    "reading": "てんない",
+    "meaning": "in the store",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 7
+    }
+  },
+  {
+    "kanji": "問題",
+    "reading": "もんだい",
+    "meaning": "problem",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "質問",
+    "reading": "しつもん",
+    "meaning": "question",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "答え",
+    "reading": "こたえ",
+    "meaning": "answer",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "今度",
+    "reading": "こんど",
+    "meaning": "this time",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "何度",
+    "reading": "なんど",
+    "meaning": "how many times",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "二度",
+    "reading": "にど",
+    "meaning": "twice",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "一度",
+    "reading": "いちど",
+    "meaning": "once",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "一本",
+    "reading": "いっぽん",
+    "meaning": "one (cylindrical object)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "定規",
+    "reading": "じょうぎ",
+    "meaning": "ruler",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "簡単",
+    "reading": "かんたん",
+    "meaning": "simple",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning": "pencil",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "面白い",
+    "reading": "おもしろい",
+    "meaning": "interesting",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "愛",
+    "reading": "あい",
+    "meaning": "love",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "怖い",
+    "reading": "こわい",
+    "meaning": "scary",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "暇",
+    "reading": "ひま",
+    "meaning": "free time",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "気持ち",
+    "reading": "きもち",
+    "meaning": "feeling",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "悲しい",
+    "reading": "かなしい",
+    "meaning": "sad",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "嬉しい",
+    "reading": "うれしい",
+    "meaning": "happy",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "教室",
+    "reading": "きょうしつ",
+    "meaning": "classroom",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "二本",
+    "reading": "にほん",
+    "meaning": "two (cylindrical objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "三本",
+    "reading": "さんぼん",
+    "meaning": "three (cylindrical objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "十本",
+    "reading": "じっぽん",
+    "meaning": "ten (cylindrical objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "四本",
+    "reading": "よんほん",
+    "meaning": "four (cylindrical objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "八本",
+    "reading": "はっぽん",
+    "meaning": "eight (cylindrical objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "五本",
+    "reading": "ごほん",
+    "meaning": "five (cylindrical objects)",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 8
+    }
+  },
+  {
+    "kanji": "自動車",
+    "reading": "じどうしゃ",
+    "meaning": "automobile",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "町中",
+    "reading": "まちなか",
+    "meaning": "in the town",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "町",
+    "reading": "まち",
+    "meaning": "town",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "門",
+    "reading": "もん",
+    "meaning": "gate",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "交番",
+    "reading": "こうばん",
+    "meaning": "police box",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "玄関",
+    "reading": "げんかん",
+    "meaning": "entranceway",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "廊下",
+    "reading": "ろうか",
+    "meaning": "hallway",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "戸",
+    "reading": "と",
+    "meaning": "sliding door",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "村",
+    "reading": "むら",
+    "meaning": "village",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "切符",
+    "reading": "きっぷ",
+    "meaning": "ticket",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "階段",
+    "reading": "かいだん",
+    "meaning": "staircase",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "危ない",
+    "reading": "あぶない",
+    "meaning": "dangerous",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "橋",
+    "reading": "はし",
+    "meaning": "bridge",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "運転手",
+    "reading": "うんてんしゅ",
+    "meaning": "driver",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "薄い",
+    "reading": "うすい",
+    "meaning": "thin",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "細い",
+    "reading": "ほそい",
+    "meaning": "thin",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "厚い",
+    "reading": "あつい",
+    "meaning": "thick",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "丸",
+    "reading": "まる",
+    "meaning": "circle",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "丸い",
+    "reading": "まるい",
+    "meaning": "round",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "鍵",
+    "reading": "かぎ",
+    "meaning": "key",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "石鹼",
+    "reading": "せっけん",
+    "meaning": "soap",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "箱",
+    "reading": "はこ",
+    "meaning": "box",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "四階",
+    "reading": "よんかい",
+    "meaning": "fourth floor",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
+    }
+  },
+  {
+    "kanji": "五階",
+    "reading": "ごかい",
+    "meaning": "fifth floor",
+    "lesson": {
+      "section": "Traveler",
+      "unit": 9
     }
   }
 ]
